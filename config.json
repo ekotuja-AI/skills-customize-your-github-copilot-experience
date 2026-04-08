@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Construindo APIs REST com framework FastAPI",
+      "description": "Aprender a construir APIs REST utilizando o framework FastAPI",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-04-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
