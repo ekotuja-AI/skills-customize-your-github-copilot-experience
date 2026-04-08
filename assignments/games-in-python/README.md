@@ -1,17 +1,20 @@
 
-# 🎮 Desafio: Jogo da Forca
+# 📘 Assignment: Jogo da Forca
 
-Construa o clássico jogo de adivinhar palavras usando strings, loops e entrada de dados do usuário em Python.
+## 🎯 Objective
 
-## 🎯 O Que Você Vai Construir
+Construa o clássico jogo de adivinhar palavras usando strings, loops e entrada de dados do usuário em Python. Crie um jogo da Forca onde os jogadores adivinham letras para revelar uma palavra oculta antes de esgotar as tentativas.
 
-Crie um jogo da Forca onde os jogadores adivinham letras para revelar uma palavra oculta antes de esgotar as tentativas.
+## 📝 Tasks
 
-**Habilidades praticadas:** Manipulação de strings, loops, condicionais, seleção aleatória
+### 🛠️ Implementar o Jogo da Forca
 
-## ✅ Requisitos Obrigatórios
+#### Description
+Desenvolva um programa em Python que implemente o jogo da Forca. O jogo deve selecionar palavras aleatoriamente, aceitar palpites de letras, mostrar o progresso e gerenciar tentativas.
 
-Seu jogo deve:
+#### Requirements
+Completed program should:
+
 - Selecionar palavras aleatoriamente de uma lista predefinida
 - Aceitar palpites de letras e mostrar o progresso atual (formato _ _ _)
 - Rastrear tentativas incorretas restantes
